@@ -1,1 +1,1 @@
-# Clone-of-Mytra
+# Clone-of-Myntra
